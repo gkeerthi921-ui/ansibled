@@ -1,0 +1,14 @@
+- name: "keerthi"
+  dob: "10-9-2000"
+  age: 21
+  adress:
+  - type: curennt
+    doorno: 1-184-89
+    city: hyd
+
+  - type: perm
+     doorno:1-67
+
+    skils:
+     -java
+     -c
